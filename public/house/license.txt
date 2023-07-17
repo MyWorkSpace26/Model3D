@@ -1,0 +1,11 @@
+Model Information:
+* title:	Жилой дом 8 0 (Реки)
+* source:	https://sketchfab.com/3d-models/8-0-1f03b08ab4cc4fd0b2e43ce7661c264c
+* author:	labarch (https://sketchfab.com/labarch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Жилой дом 8 0 (Реки)" (https://sketchfab.com/3d-models/8-0-1f03b08ab4cc4fd0b2e43ce7661c264c) by labarch (https://sketchfab.com/labarch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
